@@ -67,10 +67,54 @@
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
-      "genre": "fiction",
+      "genre": "Fiction",
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id":2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "React",
+      "author": "Abdul Jabbar Peer",
+      "genre": "Science",
+      "edition": "2020",
+      "publisher": "Masai School",
+      "cost": 1598,
+      "borrowed": false
+    },
+    {
+      "id":3,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Dsa",
+      "author": "Ankush Chimmani",
+      "genre": "History",
+      "edition": "2021",
+      "publisher": "Masai School",
+      "cost": 4592,
+      "borrowed": false
+    },
+    {
+      "id":4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Nem",
+      "author": "Pulkit Tyagi",
+      "genre": "Tect",
+      "edition": "2022",
+      "publisher": "Masai School",
+      "cost": 7865,
+      "borrowed": false
+    },
+    {
+      "id":5,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Html Css JS Dom Json",
+      "author": "Chandra",
+      "genre": "Business",
+      "edition": "2020",
+      "publisher": "Masai School",
+      "cost": 3962,
       "borrowed": false
     }
   ]
