@@ -1,121 +1,27 @@
 {
   "users": [
-    {
-      "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
-    },
-    {
-      "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
-    },
-    {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
-    },
-    {
-      "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
-    },
-    {
-      "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
-    },
-    {
-      "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
-    },
-    {
-      "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
-    },
-    {
-      "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
-    },
-    {
-      "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
-    }
+     { "id" : 1,"username": "Admin", "email": "admin@stockbroker.com", "password": "admin123","isAdmin":true },
   ],
-  "masai_library": [
-    {
-      "id":1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id":2,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "React",
-      "author": "Abdul Jabbar Peer",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "Masai School",
-      "cost": 1598,
-      "borrowed": false
-    },
-    {
-      "id":3,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Dsa",
-      "author": "Ankush Chimmani",
-      "genre": "History",
-      "edition": "2021",
-      "publisher": "Masai School",
-      "cost": 4592,
-      "borrowed": false
-    },
-    {
-      "id":4,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Nem",
-      "author": "Pulkit Tyagi",
-      "genre": "Tech",
-      "edition": "2022",
-      "publisher": "Masai School",
-      "cost": 7865,
-      "borrowed": false
-    },
-    {
-      "id":5,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Html Css JS Dom Json",
-      "author": "Chandra",
-      "genre": "Business",
-      "edition": "2020",
-      "publisher": "Masai School",
-      "cost": 3962,
-      "borrowed": false
-    }
-  ]
+  "companies":[
+	{
+		"id" : 1,
+    "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+    "company_name": "HDFC Bank",
+    "company_type": "Bank",
+		"stock_exchange": "NSE",
+		"total_shares": 50000,
+		"cost_per_share": 4210,
+		"price_action": 12,
+  },
+  {
+		"id" : 2,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Reliance Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 20000,
+		"cost_per_share": 2132,
+		"price_action": 4,
+  }
+]
 }
